@@ -1,1 +1,1 @@
-it is a basc file just to try the git protocol via the github
+this file maybe modyfied 
